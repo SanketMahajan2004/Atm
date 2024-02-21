@@ -1,7 +1,5 @@
 # Submitted By Sanket Mahajan (Batch 11)
 # Task 1: ATM simulator
-# valid code by sanket mahajan
-# error free code 
 '''Create a program that simulates the all atm
 functionalities and operations (Check balance,
 Deposit, Withdraw)'''
